@@ -26,7 +26,7 @@ subprocess.run(["git", "remote", "add", "origin", remote_url])
 # Add and commit
 print("[-] Empacotando arquivos (Scrubbed e Verificados)...")
 subprocess.run(["git", "add", "."])
-subprocess.run(["git", "commit", "-m", "Quantum Matrix Update: VQE, QPE, ER=EPR, Page-Wootters and Grand Unification"])
+subprocess.run(["git", "commit", "-m", "Quantum Matrix Update: Phase 2 and 3 (Biology, Engineering, AI, Crypto, Astrophysics)"])
 
 # Push
 print("[-] Transmitindo para o Mainframe (GitHub)...")
